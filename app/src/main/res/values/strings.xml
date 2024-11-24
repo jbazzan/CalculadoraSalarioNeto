@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CalculadoraSalarioNeto</string>
+    <string name="app_titulo">Calculadora de Salario Neto</string>
+    <string name="salario_neto_anual">Salario neto anual</string>
+    <string-array name="estado_civil_array">
+        <item>Estado civil</item>
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viudo</item>
+    </string-array>
+    <string-array name="numero_pagas_array">
+        <item>Numero de pagas</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="grupo_profesional_array">
+        <item>Grupo profesional</item>
+        <item>Licenciados</item>
+        <item>Ingenieros técnicos, peritos y ayudantes</item>
+        <item>Jefe administrativo y de taller</item>
+        <item>Ayudantes no titulados</item>
+        <item>Oficiales administrativos</item>
+        <item>Subalternos</item>
+        <item>Auxiliares administrativos</item>
+        <item>Oficiales de 1ª y 2ª</item>
+        <item>Oficiales de 3ª</item>
+        <item>Peones</item>
+        <item>Trabajadores menores de 18 años</item>
+        <item>Autónomo</item>
+    </string-array>
+    <string-array name="grado_discapacidad_array">
+        <item>Grado de discapacidad</item>
+        <item>Menor del 65% (sin asistencia)</item>
+        <item>Menor del 65% (con asistencia)</item>
+        <item>Mayor o igual al 65%</item>
+    </string-array>
+</resources>

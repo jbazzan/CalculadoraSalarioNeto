@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="encabezado">#1E3A8A</color>
+    <color name="botones">#3B82F6</color>
+    <color name="fondo">#F3F4F6</color>
+    <color name="texto">#4B5563</color>
+    <color name="exito">#10B981</color>
+</resources>
